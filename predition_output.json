@@ -1,0 +1,1778 @@
+[
+      {
+            "Predicted Class": "Shih-Tzu",
+            "Passed image": "affenpinscher-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "affenpinscher-standing.jpg"
+      },
+      {
+            "Predicted Class": "Afghan",
+            "Passed image": "afghan-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Afghan",
+            "Passed image": "afhgan-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "airedale-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "airedale-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "akita-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "akita-standing.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "alaskan-malamute-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "alaskan-malamute-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "anatolian-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "anatolian-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "australian-cattle-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "australian-cattle-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "australian-shepherd-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "australian-shepherd-standing.jpg"
+      },
+      {
+            "Predicted Class": "Yorkie",
+            "Passed image": "australian-silky-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Yorkie",
+            "Passed image": "australian-silky-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "australian-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "australian-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "azawakh-face.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "azawakh-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Spaniel",
+            "Passed image": "barbet-credit-wendy-preston-for-use.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "barbet-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basenji",
+            "Passed image": "basenji-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basenji",
+            "Passed image": "basenji-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "basset-bleu-de-gascogne-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "basset-bleu-de-gascogne-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "basset-fauve-de-bretagne-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "basset-fauve-de-bretagne-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "basset-griffon-vendeen-grand-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "basset-griffon-vendeen-grand-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "basset-griffon-vendeen-petit-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "basset-griffon-vendeen-petit-standing.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "basset-hound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "basset-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "bavarian-mountain-hound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "bavarian-mountain-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Beagle",
+            "Passed image": "beagle-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "beagle-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "bearded-collie-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "bearded-collie-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "beauceron-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "beauceron-standing.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "bedlington-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "bedlington-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "belgian-shepherd-dog-groenendael-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "belgian-shepherd-dog-groenendael-standing.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "belgian-shepherd-dog-laekenois-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "belgian-shepherd-dog-laekenois-standing.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "belgian-shepherd-dog-malinois-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "belgian-shepherd-dog-malinois-standing.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "belgian-shepherd-dog-tervueren-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "belgian-shepherd-dog-tervueren-standing.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "bergamasco-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "bergamasco-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "bernese-mountain-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "bernese-mountain-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bichon Frise",
+            "Passed image": "bichon-frise-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bichon Frise",
+            "Passed image": "bichon-frise-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "black-and-tan-coonhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "black-and-tan-coonhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bloodhound",
+            "Passed image": "bloodhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bloodhound",
+            "Passed image": "bloodhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bichon Frise",
+            "Passed image": "bolognese-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "bolognese-standing.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "border-collie-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "border-collie-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "border-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "border-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Borzoi",
+            "Passed image": "borzoi-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "borzoi-standing.jpg"
+      },
+      {
+            "Predicted Class": "Boston Terrier",
+            "Passed image": "boston-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Boston Terrier",
+            "Passed image": "boston-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "bouvier-des-flandres-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "bouvier-des-flandres-standing.jpg"
+      },
+      {
+            "Predicted Class": "Boxer",
+            "Passed image": "boxer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Boxer",
+            "Passed image": "boxer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bloodhound",
+            "Passed image": "bracco-italiano-1.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "bracco-italiano-3.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "braque-d-auvergne-1.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "braque-d-auvergne-2.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "briard-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "briard-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "brittany-1.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "brittany-2.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "bull-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "bull-terrier-miniature-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basenji",
+            "Passed image": "bull-terrier-miniature-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "bull-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bulldog",
+            "Passed image": "bulldog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Beagle",
+            "Passed image": "bulldog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bull Mastiff",
+            "Passed image": "bullmastiff-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Mastiff",
+            "Passed image": "bullmastiff-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "cairn-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "cairn-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "canaan-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Dingo",
+            "Passed image": "canaan-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "canadian-eskimo-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "canadian-eskimo-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "catalan-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "catalan-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "cavalier-king-charles-spaniel-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "cavlier-king-charles-spaniel-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "cesky-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "cesky-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chihuahua",
+            "Passed image": "chihuahua-long-coat-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "chihuahua-long-coat-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chihuahua",
+            "Passed image": "chihuahua-smooth-coat-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bulldog",
+            "Passed image": "chihuahua-smooth-coat-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chinese Crested",
+            "Passed image": "chinese-crested-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chinese Crested",
+            "Passed image": "chinese-crested-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chow",
+            "Passed image": "chow-chow-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chow",
+            "Passed image": "chow-chow-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "cirneco-delletna-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "cirneco-delletna-standing.jpg"
+      },
+      {
+            "Predicted Class": "Collie",
+            "Passed image": "collie-rough-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Collie",
+            "Passed image": "collie-rough-standing.jpg"
+      },
+      {
+            "Predicted Class": "Collie",
+            "Passed image": "collie-smooth-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "collie-smooth-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "coton-de-tulear-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "coton-de-tulear-standing.jpg"
+      },
+      {
+            "Predicted Class": "Golden Retriever",
+            "Passed image": "dachshund-long-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "dachshund-long-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Afghan",
+            "Passed image": "dachshund-miniature-long-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "dachshund-miniature-long-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "dachshund-miniature-smooth-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "dachshund-miniature-smooth-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "dachshund-miniature-wire-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "dachshund-miniature-wire-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "dachshund-smooth-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "dachshund-smooth-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "dachshund-wire-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "dachshund-wire-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Dalmation",
+            "Passed image": "dalmatian-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Dalmation",
+            "Passed image": "dalmatian-standing.jpg"
+      },
+      {
+            "Predicted Class": "Maltese",
+            "Passed image": "dandie-dinmont-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "dandie-dinmont-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "deerhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "deerhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "dobermann-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "dobermann-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "dogue-de-bordeaux-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "dogue-de-bordeaux-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "english-setter-2.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "english-setter.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "english-toy-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "english-toy-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "entlebucher-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "entlebucher-standing.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "estrela-mountain-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "estrela-mountain-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chow",
+            "Passed image": "eurasier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chow",
+            "Passed image": "eurasier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "finnish-lapphund-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "finnish-lapphund-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "finnish-spitz-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "finnish-spitz-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "fox-hound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "fox-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "fox-terrier-smooth-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "fox-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "fox-terrier-wire-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "fox-terrier-wire-standing.jpg"
+      },
+      {
+            "Predicted Class": "French Bulldog",
+            "Passed image": "french-bulldog-headshot-2.jpg"
+      },
+      {
+            "Predicted Class": "French Bulldog",
+            "Passed image": "french-bulldog-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "german-longhaired-pointer-1.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "german-longhaired-pointer-2.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "german-pinscher-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "german-pinscher-standing.jpg"
+      },
+      {
+            "Predicted Class": "Malinois",
+            "Passed image": "german-shepherd-headshot.jpg"
+      },
+      {
+            "Predicted Class": "German Sheperd",
+            "Passed image": "german-shepherd-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "german-shorthaired-pointer-1.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "german-shorthaired-pointer-2.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "german-spitz-klein-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chow",
+            "Passed image": "german-spitz-klein-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "german-spitz-mittel-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "german-spitz-mittel-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "german-wirehaired-pointer-1.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "german-wirehaired-pointer-2.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "giant-schnauzer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "giant-schnauzer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "glen-of-imaal-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "glen-of-imaal-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "gordon-setter-2.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "gordon-setter.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "grand-bleu-de-gascogne-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "grand-bleu-de-gascogne-standing.jpg"
+      },
+      {
+            "Predicted Class": "Great Dane",
+            "Passed image": "great-dane-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "great-swiss-mountain-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "great-swiss-mountain-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "greeland-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "greenland-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "greyhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Boxer",
+            "Passed image": "greyhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shih-Tzu",
+            "Passed image": "griffon-bruxellois-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Shih-Tzu",
+            "Passed image": "griffon-bruxellois-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "griffon-fauve-de-bretagne-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "griffon-fauve-de-bretagne-standing.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "hamiltonstovare-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "hamiltonstovare-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "havanese-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "havanese-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "hovawart-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bermaise",
+            "Passed image": "hovawart-standing.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "hungarian-kuvasz-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "hungarian-kuvasz-standing.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "hungarian-puli-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "hungarian-puli-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "hungarian-pumi-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "hungarian-pumi-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "hungarian-vizsla-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "hungarian-vizsla-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "hungarian-wire-haired-vizsla-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "hungarian-wire-haired-vizsla-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "ibizan-hound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Basenji",
+            "Passed image": "ibizan-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "irish-red-white-setter-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "irish-red-white-setter-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "irish-setter-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "irish-setter-standing.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "irish-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "irish-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "irish-wolfhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "irish-wolfhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "italian-greyhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "italian-greyhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "italian-spinone-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "italian-spinone-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "jack-russell-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Beagle",
+            "Passed image": "jack-russell-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "japanese-akita-inu-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "japanese-akita-inu-standing.jpg"
+      },
+      {
+            "Predicted Class": "Japanese Spaniel",
+            "Passed image": "japanese-chin-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Japanese Spaniel",
+            "Passed image": "japanese-chin-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "japanese-shiba-inu-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Shiba Inu",
+            "Passed image": "japanese-shiba-inu-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "japanese-spitz-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "japanese-spitz-standing.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "keeshond-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "keeshond-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bluetick",
+            "Passed image": "kerry-blue-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "kerry-blue-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Japanese Spaniel",
+            "Passed image": "king-charles-spaniel-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Japanese Spaniel",
+            "Passed image": "king-charles-spaniel-standing.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "komondor-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Komondor",
+            "Passed image": "komondor-standing.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "kooikerhonje-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "kooikerhonje-standing.jpg"
+      },
+      {
+            "Predicted Class": "Dingo",
+            "Passed image": "korean-jindo-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Dingo",
+            "Passed image": "korean-jindo-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "korthals-griffon-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "korthals-griffon-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "lagotto-romagnolo-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Spaniel",
+            "Passed image": "lagotto-romagnolo-standing.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "lakeland-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "lakeland-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "lancashire-heeler-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "lancashire-heeler-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "large-munsterlander-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "large-munsterlander-standing.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "leonberger-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "leonberger-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "lhasa-apso-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "lhasa-apso-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "lowchen-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "lowchen-standing.jpg"
+      },
+      {
+            "Predicted Class": "Maltese",
+            "Passed image": "maltese-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Maltese",
+            "Passed image": "maltese-standing.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "manchester-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "manchester-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "maremma-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "maremma-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bull Mastiff",
+            "Passed image": "mastiff-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Mastiff",
+            "Passed image": "mastiff-standing.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "miniature-pinscher-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "miniature-pinscher-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "miniature-schnauzer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "miniature-schnazuer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Mastiff",
+            "Passed image": "neapolitan-mastiff-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "neapolitan-mastiff-standing.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "newfoundland-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "newfoundland-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "norfolk-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "norfolk-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "norwegian-buhund-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "norwegian-buhund-standing.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "norwegian-elkhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "norwegian-elkhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "norwich-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "norwich-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "old-english-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bichon Frise",
+            "Passed image": "old-english-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "otterhound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "otterhound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "papillon-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Japanese Spaniel",
+            "Passed image": "papillon-standing.jpg"
+      },
+      {
+            "Predicted Class": "Dingo",
+            "Passed image": "parson-russell-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "parson-russell-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pekinese",
+            "Passed image": "pekingese-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pekinese",
+            "Passed image": "pekingese-standing.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "pharaoh-hound-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Hairless",
+            "Passed image": "pharaoh-hound-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "picardy-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "picardy-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pit Bull",
+            "Passed image": "pointer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bull Terrier",
+            "Passed image": "pointer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "polish-hunting-dog-illustration.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "polish-lowland-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "polish-lowland-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Doberman",
+            "Passed image": "polishhuntingdog2.jpg"
+      },
+      {
+            "Predicted Class": "undifined image polishhuntingdog3.png",
+            "Passed image": "polishhuntingdog3.png"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "pomeranian-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "pomeranian-standing.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-miniature-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-miniature-standing.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-standard-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-standard-standing.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-toy-standing.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "poodle-toy.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "portuguese-podengo-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "portuguese-podengo-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "portuguese-pointer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Dane",
+            "Passed image": "portuguese-pointer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "portuguese-water-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "portuguese-water-dog-standing-shot.jpg"
+      },
+      {
+            "Predicted Class": "Pug",
+            "Passed image": "pug-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pug",
+            "Passed image": "pug-standing.jpg"
+      },
+      {
+            "Predicted Class": "Saint Bernard",
+            "Passed image": "pyrenean-mastiff-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "pyrenean-mastiff-standing.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "pyrenean-mountain-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "pyrenean-mountain-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cairn",
+            "Passed image": "pyrenean-sheepdog-long-haired-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "pyrenean-sheepdog-long-haired-standing.jpg"
+      },
+      {
+            "Predicted Class": "Golden Retriever",
+            "Passed image": "pyrenean-sheepdog-smooth-faced-1.jpg"
+      },
+      {
+            "Predicted Class": "Chinese Crested",
+            "Passed image": "pyrenean-sheepdog-smooth-faced-2.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "retriever-chesapeake-bay-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "retriever-chesapeake-bay-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "retriever-curly-coated-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Spaniel",
+            "Passed image": "retriever-curly-coated-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "retriever-flat-coated-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "retriever-flat-coated-standing.jpg"
+      },
+      {
+            "Predicted Class": "Golden Retriever",
+            "Passed image": "retriever-golden-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "retriever-golden-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "retriever-labrador-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "retriever-labrador-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "retriever-nova-scotia-duck-tolling-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Golden Retriever",
+            "Passed image": "retriever-nova-scotia-duck-tolling-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "rhodesian-ridgeback-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "rhodesian-ridgeback-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "rottweiler-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Rottweiler",
+            "Passed image": "rottweiler-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "russian-black-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "russian-black-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Chihuahua",
+            "Passed image": "russian-toy-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chihuahua",
+            "Passed image": "russian-toy-standing.jpg"
+      },
+      {
+            "Predicted Class": "Afghan",
+            "Passed image": "saluki-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Borzoi",
+            "Passed image": "saluki-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "samoyed-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pomeranian",
+            "Passed image": "samoyed-standing.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "schipperke-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "schipperke-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "schnauzer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "schnauzer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "scottish-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "scottish-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "sealyham-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "sealyham-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Shar_Pei",
+            "Passed image": "shar-pei-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Shar_Pei",
+            "Passed image": "shar-pei-standing.jpg"
+      },
+      {
+            "Predicted Class": "Collie",
+            "Passed image": "shetland-sheepdog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Collie",
+            "Passed image": "shetland-sheepdog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "shih-tzu-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "shih-tzu-standing.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "siberian-husky-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Siberian Husky",
+            "Passed image": "siberian-husky-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "skye-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Chinese Crested",
+            "Passed image": "skye-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Rhodesian",
+            "Passed image": "sloughi-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "sloughi-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Wolfhound",
+            "Passed image": "slovakian-rough-haired-pointer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Schnauzer",
+            "Passed image": "slovakian-rough-haired-pointer-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "small-munsterlander-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "small-munsterlander-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "soft-coated-wheaten-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "soft-coated-wheaten-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-american-cocker-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-american-cocker-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-american-water-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-american-water-standing.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "spaniel-clumber-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Clumber",
+            "Passed image": "spaniel-clumber-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-cocker-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-cocker-standing.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-english-springer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Cocker",
+            "Passed image": "spaniel-english-springer-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-field-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-field-standing.jpg"
+      },
+      {
+            "Predicted Class": "Irish Spaniel",
+            "Passed image": "spaniel-irish-water-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Irish Spaniel",
+            "Passed image": "spaniel-irish-water-standing.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-sussex-head.jpg"
+      },
+      {
+            "Predicted Class": "American Spaniel",
+            "Passed image": "spaniel-sussex-standing.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "spaniel-welsh-springer-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Blenheim",
+            "Passed image": "spaniel-welsh-springer-standing.jpg"
+      },
+      {
+            "Predicted Class": "Labradoodle",
+            "Passed image": "spanish-water-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Poodle",
+            "Passed image": "spanish-water-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Saint Bernard",
+            "Passed image": "st-bernard-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Saint Bernard",
+            "Passed image": "st-bernard-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pit Bull",
+            "Passed image": "staffordshire-bull-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pit Bull",
+            "Passed image": "staffordshire-bull-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "swedish-lapphund-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "swedish-lapphund-standing.jpg"
+      },
+      {
+            "Predicted Class": "German Sheperd",
+            "Passed image": "swedish-vallhund-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Elk Hound",
+            "Passed image": "swedish-vallhund-standing.jpg"
+      },
+      {
+            "Predicted Class": "Newfoundland",
+            "Passed image": "tibetan-mastiff-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Border Collie",
+            "Passed image": "tibetan-mastiff-standing.jpg"
+      },
+      {
+            "Predicted Class": "Pekinese",
+            "Passed image": "tibetan-spaniel-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Pekinese",
+            "Passed image": "tibetan-spaniel-standing.jpg"
+      },
+      {
+            "Predicted Class": "Lhasa",
+            "Passed image": "tibetan-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Bearded Collie",
+            "Passed image": "tibetan-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Basset",
+            "Passed image": "tkc_89893.jpg"
+      },
+      {
+            "Predicted Class": "Beagle",
+            "Passed image": "tkc_89894.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "turkish-kangal-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Labrador",
+            "Passed image": "turkish-kangal-dog-standing.jpg"
+      },
+      {
+            "Predicted Class": "Golden Retriever",
+            "Passed image": "weimaraner-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Dane",
+            "Passed image": "weimaraner-smooth-coast-standing.jpg"
+      },
+      {
+            "Predicted Class": "Vizsla",
+            "Passed image": "weimaraner-smooth-coat-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Afghan",
+            "Passed image": "weimaraner-standing.jpg"
+      },
+      {
+            "Predicted Class": "Corgi",
+            "Passed image": "welsh-corgi-cardigan-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Corgi",
+            "Passed image": "welsh-corgi-cardigan-standing.jpg"
+      },
+      {
+            "Predicted Class": "Corgi",
+            "Passed image": "welsh-corgi-pembroke-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Corgi",
+            "Passed image": "welsh-corgi-pembroke-standing.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "welsh-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Airedale",
+            "Passed image": "welsh-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Bichon Frise",
+            "Passed image": "west-highland-white-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Scotch Terrier",
+            "Passed image": "west-highland-white-terrier-standing.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "whippet-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Greyhound",
+            "Passed image": "whippet-standing.jpg"
+      },
+      {
+            "Predicted Class": "Groenendael",
+            "Passed image": "white-swiss-shepherd-dog-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Great Perenees",
+            "Passed image": "white-swiss-shepherd-dog.jpg"
+      },
+      {
+            "Predicted Class": "Mex Hairless",
+            "Passed image": "xoloitzcuintle-int-headshot.jpg"
+      },
+      {
+            "Predicted Class": "American Hairless",
+            "Passed image": "xoloitzcuintle-int-standing.jpg"
+      },
+      {
+            "Predicted Class": "Yorkie",
+            "Passed image": "yorkshire-terrier-headshot.jpg"
+      },
+      {
+            "Predicted Class": "Yorkie",
+            "Passed image": "yorkshire-terrier-standing.jpg"
+      }
+]
